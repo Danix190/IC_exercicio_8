@@ -14,4 +14,4 @@ Preenchimento dos dados do aluno e configuração do Git LFS.
 
 ## Observações (opcional)
 
-tchaouuu
+Consertei o conflito
