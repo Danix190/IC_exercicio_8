@@ -129,6 +129,8 @@ Combina todos os conceitos:
 
 ---
 
+## Alteração feita diretamente no GitHub para o exercício 6 ##
+
 ### 💡 Sugestões
 
 - Garante que fazes **commits pequenos e descritivos**.
