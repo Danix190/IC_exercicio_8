@@ -1,14 +1,14 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:Daniel Figueiredo**  
+- **Número: a22603476**  
+- **Turma: 1 ano, 2 turno**  
 
 ---
 
 ## Alterações realizadas
 
-(Descreve brevemente as alterações feitas neste repositório.)
+Preenchimento dos dados do aluno e configuração do Git LFS.
 
 ---
 
