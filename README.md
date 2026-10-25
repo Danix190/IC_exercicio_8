@@ -139,3 +139,5 @@ Combina todos os conceitos:
 - Mantém o repositório atualizado com `git pull`.
 
 ---
+
+Exercicio 7: atualizacao da main antes do rebase.
